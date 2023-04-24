@@ -16,7 +16,7 @@
     "keywords": [
         "github"
     ],
-    "author": "Casper <vn7n24fzkq@gmail.com>",
+    "author": "Gzf <gzf.dev@gmail.com>",
     "license": "MIT",
     "dependencies": {
         "@actions/core": "^1.9.1",
