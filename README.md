@@ -9,14 +9,14 @@
       :star: This repo is just for fun, feel free to contribute! :star:
    </p>
    <p align="center">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/stargazers">
-      <img alt="Stargazers" src="https://img.shields.io/github/stars/vn7n24fzkq/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/releases/latest">
-      <img alt="Releases" src="https://img.shields.io/github/release/vn7n24fzkq/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
+      <a href="https://github.com/Argzf/github-profile-summary-cards/stargazers">
+      <img alt="Stargazers" src="https://img.shields.io/github/stars/Argzf/github-profile-summary-cards?style=for-the-badge&logo=github&color=f4dbd6&logoColor=D9E0EE&labelColor=302D41"></a>
+      <a href="https://github.com/Argzf/github-profile-summary-cards/releases/latest">
+      <img alt="Releases" src="https://img.shields.io/github/release/Argzf/github-profile-summary-cards.svg?style=for-the-badge&logo=semantic-release&color=f5bde6&logoColor=D9E0EE&labelColor=302D41"/></a>
       <a href="https://www.conventionalcommits.org/en/v1.0.0/">
       <img alt="conventionalcommits" src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&color=ee99a0&logoColor=D9E0EE&labelColor=302D41"></a>
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards/actions/workflows/github-action.yml">
-      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/vn7n24fzkq/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
+      <a href="https://github.com/Argzf/github-profile-summary-cards/actions/workflows/github-action.yml">
+      <img alt="testandlint" src="https://img.shields.io/github/actions/workflow/status/Argzf/github-profile-summary-cards/test-and-lint.yml?branch=main&label=Test%20and%20Lint&style=for-the-badge&color=a6da95"></a>
    </p>
 </div>
 
@@ -39,19 +39,19 @@
 |   |   |   |   |   |
 |:---:|:---:|:---:|:---:|:---:|
 |default|2077|dracula|github|github_dark|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=github_dark)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=default)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=2077)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=github)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=github_dark)|
 |gruvbox|monokai|nord_bright|nord_dark|radical|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=radical)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=gruvbox)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=monokai)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=nord_bright)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=nord_dark)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=radical)|
 |solarized|solarized_dark|tokyonight|vue|zenburn|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=zenburn)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=solarized)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=solarized_dark)| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=tokyonight)|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=vue)  |![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=zenburn)|
 |transparent|
-|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=transparent)|
+|![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=transparent)|
 
-[More themes](https://github.com/vn7n24fzkq/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
+[More themes](https://github.com/Argzf/github-profile-summary-cards-example/tree/master/profile-summary-card-output)
 
 ## How to use (API)
 ### Profile details card
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Argzf&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}`
 - Accept url parameters
@@ -60,7 +60,7 @@
   - username
     - Username
 ### Top languages used in repository card
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Argzf&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}`
 - Accept url parameters
@@ -73,7 +73,7 @@
     - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 ### Top languages in commits card
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Argzf&theme=nord_bright)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username={username}&theme={theme_name}&exclude={exclude}`
 - Accept url parameters
@@ -86,7 +86,7 @@
     - You can found the supported languages in [here](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 ### GitHub stats card
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vn7n24fzkq&theme=nord_bright&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Argzf&theme=nord_bright&)
 
 `http://github-profile-summary-cards.vercel.app/api/cards/stats?username={username}&theme={theme_name}`
 - Accept url parameters
